@@ -31,7 +31,7 @@ for (let indeks = 0; indeks <= 100; indeks++) {
 
 
 ```ghost
-basic.showNumber(0)
+basic.showNumber(0 - 0)
 basic.showIcon(IconNames.Heart)
 basic.showLeds(`
     . . . . .
